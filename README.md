@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Nesma Shafie 👋</h1> 
 
 <h2 align="center">computer engineering student @Cairo_University</h2>
-
+<p align="center">
 <a href="https://github.com/nesma-shafie/nesma-shafie/raw/main/download.gif">
-  <img src="https://github.com/nesma-shafie/nesma-shafie/raw/main/download.gif" alt="GIF" width="100%" height="40%" >
+  <img src="https://github.com/nesma-shafie/nesma-shafie/raw/main/download.gif" alt="GIF" width="80%" height="600px" >
 </a>
-
+</p>
 ---
 
 ### 🔧 Languages and Tools:
