@@ -3,9 +3,10 @@
 <h2 align="center">computer engineering student @Cairo_University</h2>
 <p align="center">
 <a href="https://github.com/nesma-shafie/nesma-shafie/raw/main/download.gif">
-  <img src="https://github.com/nesma-shafie/nesma-shafie/raw/main/download.gif" alt="GIF" width="80%" height="600px" >
+  <img src="https://github.com/nesma-shafie/nesma-shafie/raw/main/download.gif" alt="GIF" width="50%" height="400px" >
 </a>
 </p>
+
 ---
 
 ### 🔧 Languages and Tools:
