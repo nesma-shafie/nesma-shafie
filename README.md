@@ -54,9 +54,9 @@
 
 ### 📈 GitHub Stats
 
-![Nesma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nesma-shafie&show_icons=true&theme=radical)
+![Nesma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nesma-shafie&show_icons=true&theme=radical) </a>&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesma-shafie&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesma-shafie&layout=compact&theme=radical)
+
 
 ---
 
